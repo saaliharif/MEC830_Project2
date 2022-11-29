@@ -1,5 +1,7 @@
 //MEC825 Project 2 Task 1
-//This task uses a joystick module to control a robot. The robot's task is to successfully navigate 3 waypoints.   
+//This task uses a joystick module to control a robot. The robot's task is to successfully navigate 3 waypoints. 
+
+//Task 1
 
 #include <AccelStepper.h>
 int Constant;
