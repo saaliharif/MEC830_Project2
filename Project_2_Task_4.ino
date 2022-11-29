@@ -1,6 +1,8 @@
 #include <AccelStepper.h>
 #include <MultiStepper.h>
 
+// Task 3
+
 MultiStepper steppers;
 int x=0;
 int y=0; 
